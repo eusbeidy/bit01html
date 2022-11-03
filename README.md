@@ -1,5 +1,5 @@
 # bit01html
 ## descripcion
- este es un repositorio para el taller bit01html
+ este es un repositorio para el taller bit01html, en donde el objetivo es hablar un poco mas sobre mi.
  ### autor 
- [eusbeidy] (https://www.facebook.com/eusbeiidy.fernaandez)
+ [Eusbeidy] (https://www.facebook.com/eusbeiidy.fernaandez)
